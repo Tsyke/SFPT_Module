@@ -1,6 +1,5 @@
 /**
- * Generates a password
- * @param {Number} Length The length of the password characters
+ * @param {Number} Length 
  * @returns {String}
  */
 module.exports = (Length) => {
